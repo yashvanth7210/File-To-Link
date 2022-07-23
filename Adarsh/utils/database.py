@@ -1,4 +1,4 @@
-#(c) Adarsh-Goel
+# (c) Tgbots_tech
 import datetime
 import motor.motor_asyncio
 
