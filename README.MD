@@ -1,26 +1,25 @@
 **<h1 align="center">𝚃𝙶 𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃</h1>**
 <p align="center">
-  <a href="https://youtu.be/W4wSOZw8GXk">
-    <img src="https://telegra.ph/file/a2303826e0c6d18bf9cab.jpg">
-  </a>
-  <p align="center">
+  <a href="https://www.youtube.com/watch?v=QwlpJoxALGw&t=5s">
+           </a>
+               <p align="center">
     𝙸 𝙲𝙰𝙽 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴 𝙳𝙸𝚁𝙴𝙲𝚃 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙰𝙽𝚈 𝚅𝙸𝙳𝙴𝙾/𝙵𝙸𝙻𝙴𝚂 𝙵𝙾𝚁 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙾𝙽𝙻𝙸𝙽𝙴 & 𝙵𝙾𝚁 𝚂𝚃𝚁𝙴𝙰𝙼𝙸𝙽𝙶...
     <br />
-    <a href="https://telegram.dog/OPFileToLinkBot"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
+    <a href="https://t.me//Tgbots_tech"><strong>𝙵𝙸𝙻𝙴 𝚃𝙾 𝙻𝙸𝙽𝙺 𝙱𝙾𝚃 »</strong></a>
     <br />
   </p>
   <p align="center">
-  <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
+  <a href="https://youtube.com/channel/UCZhPEQ12VO30h8J2f8OASJA">
         <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
   </p>
 <hr>
   
 ## About This Bot
 
-<b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
+<b><a href="https://www.github.com/tgbotstech" title="Dollow">Follow Me For Updates</a></b>
 
 <p align="center">
-    <a href="https://github.com/Aadhi000/File-To-Link">
+    <a href="https://github.com/tgbotstech/File-To-Link">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -36,7 +35,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/File-To-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tgbotstech/File-To-Link)
 
 
 🚀Features<p>
@@ -136,8 +135,6 @@ DATABASE_URL=mongodb_uri
 `/start` : To check if the bot is alive or not.
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
-  
-![image](https://user-images.githubusercontent.com/88939380/145798095-3cdad108-96b0-4391-a540-cad144d6b864.png)
 
 
 ### Channel Support
@@ -145,9 +142,8 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 ### Credits : 
 
-- [Adarsh Goel_(me)](https://github.com/adarsh-goel)
-- [DeekshithSH](https://github.com/DeekshithSH) 
+- [Naveen(me)](https://github.com/tgbotstech)
 - Everyone In This Journey !
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/_aadil_m__/) | [ɢɪᴛʜᴜʙ](GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
-<b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [TGBOTS-TECH](https://t.me/Tgbots_tech) | [ɢɪᴛʜᴜʙ](GitHub.com/tgbotstech)</b>                                                                                                                                                                                    
+<b>ᴄʜᴀɴɴᴇʟ ›› [YOUTUBE CHANNEL](https://youtube.com/channel/UCZhPEQ12VO30h8J2f8OASJA)</b>
