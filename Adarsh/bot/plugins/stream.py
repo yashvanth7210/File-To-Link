@@ -1,4 +1,4 @@
-#(c) Adarsh-Goel
+#(c) Tgbots_tech
 import os
 import asyncio
 from asyncio import TimeoutError
@@ -115,7 +115,7 @@ async def private_receive_handler(c: Client, m: Message):
 
 <b>🖥 ᴡᴀʏᴄʜ ᴏɴʟɪɴᴇ :- </b> <i><b>{}</b></i>
 
-<b>♻️ ᴛʜɪs ʟɪɴᴋ ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴀɴᴅ ᴡᴏɴ'ᴛ ɢᴇᴛs ᴇxᴘɪʀᴇᴅ ♻️\n\n@OpusTechz</b>"""
+<b>♻️ ᴛʜɪs ʟɪɴᴋ ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴀɴᴅ ᴡᴏɴ'ᴛ ɢᴇᴛs ᴇxᴘɪʀᴇᴅ ♻️\n\n@Tgbots_tech</b>"""
 
         await log_msg.reply_text(text=f"**RᴇQᴜᴇꜱᴛᴇᴅ ʙʏ :** [{m.from_user.first_name}](tg://user?id={m.from_user.id})\n**Uꜱᴇʀ ɪᴅ :** `{m.from_user.id}`\n**Stream ʟɪɴᴋ :** {stream_link}", disable_web_page_preview=True, parse_mode="Markdown", quote=True)
         await m.reply_text(
