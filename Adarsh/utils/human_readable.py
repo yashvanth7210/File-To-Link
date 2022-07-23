@@ -1,4 +1,4 @@
-# (c) adarsh-goel
+# (c) Tgbots_tech
 
 
 def humanbytes(size):
