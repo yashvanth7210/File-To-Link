@@ -1,4 +1,4 @@
-# (c) adarsh-goel
+# (c) Tgbots_tech
 import os
 from os import getenv, environ
 from dotenv import load_dotenv
