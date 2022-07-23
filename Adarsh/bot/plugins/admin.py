@@ -1,4 +1,4 @@
-# (c) @adarsh-goel
+# (c) @Tgbots_tech
 import os
 import time
 import string
